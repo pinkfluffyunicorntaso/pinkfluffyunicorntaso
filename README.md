@@ -13,7 +13,7 @@
 <br>
 
 <p>
-&quot;what is wrong with you? why are you <span style="color: #00e5ff;">blue?!</span>&quot;
+"what is wrong with you? why are you blue?!"
 </p>
 
 
