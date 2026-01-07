@@ -21,7 +21,7 @@
 
 <br><br>
 
-<p>i also really like neon genesis evangelion</p>
+<p>i also really like neon genesis evangelion (+ everything in ghibli studio)</p>
 
 <br>
 
