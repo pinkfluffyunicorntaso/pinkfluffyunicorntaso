@@ -28,10 +28,6 @@
 <img src="https://media1.tenor.com/m/3SJrBPHrsJYAAAAC/shinji.gif" width="200"/>
 <img src="https://media1.tenor.com/m/EV17KKTqY2EAAAAC/evangelion-neon-genesis-evangelion.gif" width="200"/>
 
-<br><br>
-
-<h1>oh and i also like programming</h1>
-
 </div>
 
 
